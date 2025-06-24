@@ -1,8 +1,4 @@
-# DSA2040A\_ETL\_Midterm\_Ayk\_123
-
-### Midterm ETL Project – Data Warehousing & Mining
-
-Author: Ayk (ID: 123)
+# DSA2040A\_ETL\_Midterm\ Data Warehousing & Mining
 Instructor: Austin Odera
 Course: DSA 2040 A (US 2025)
 
@@ -19,8 +15,6 @@ This repository showcases a full **ETL (Extract → Transform → Load)** pipeli
 ---
 
 ## 📂 Repository Structure
-
-### 🔗 [ETL\_Midterm\_Ayk\_123](https://github.com/yourusername/ETL_Midterm_Ayk_123/)
 
 | Path                                                                                                                    | Description                                 |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
