@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment folders
+env/
+venv/
+.venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# macOS and Linux
+.DS_Store
+.cache/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Python virtual environment files
+*.env
+*.venv
+*.bak
+*.swp
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Data files (optional)
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Ignore secret files (optional)
+*.pem
+*.key
+*.crt
+.env
+
+# Ignore zipped or compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
