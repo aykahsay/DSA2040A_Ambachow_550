@@ -113,6 +113,4 @@ python wrangle_and_load.py
 * 📖 This professional README documentation
 
 ---
-
-**Maintained by:** Ayk (Student ID: 123)
 This repository fulfills the ETL midterm submission requirements for DSA 2040A.
