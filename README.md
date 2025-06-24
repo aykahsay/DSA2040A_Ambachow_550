@@ -48,15 +48,19 @@ This repository showcases a full **ETL (Extract → Transform → Load)** pipeli
 
 * **Text Normalization**: Clean `customer_name`, `product`, and `region` using `.str.strip()`, `.title()`, and regex
 * **Missing Value Handling**:
-
+![image](https://github.com/user-attachments/assets/f5cb6a88-7401-4912-80de-fe200855d989)
+    ### Key Observations
+- **West** region has wide price ranges and several outliers → inconsistent pricing.
+- **East** and **North** have more uniform prices.
+- **Phones in South** show large price variation → check needed. Impution is done based on this for unit price.
   * `customer_name`: Fill NA with "Unknown"
   * `product`: Impute using historical `unit_price` mapping
   * `quantity`: Use median by product → customer → global
   * `unit_price`: Use mode by product+region, fallback to forward fill
   * `order_date`: Convert to datetime, forward-fill
   * `region`: Title-case and fill with mode
-* **Derived Features**:
 
+* **Derived Features**:
   * `total_price = quantity × unit_price`
   * `price_tier`: Categorical bin (Low, Medium, High, Premium)
 
