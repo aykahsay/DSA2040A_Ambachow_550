@@ -1,4 +1,3 @@
-
 ## Midterm ETL Project – Data Warehousing & Mining
 Instructor: Austin Odera
 Course: DSA 2040 A (US 2025)
