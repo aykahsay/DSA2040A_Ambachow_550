@@ -17,9 +17,8 @@ To simulate retail transaction data, apply the Apriori algorithm to find frequen
 - Items are selected from a pool of **8 grocery products**:
   - Bread, Milk, Eggs, Butter, Cheese, Cereal, Juice, Apples
 
-Example transaction:
-Transaction 1: ['Bread', 'Milk', 'Butter']
-Transaction 2: ['Cheese', 'Juice', 'Apples', 'Cereal']
+![image](https://github.com/user-attachments/assets/e5413a13-ed7b-4d5c-86ed-ab8e8ef15b6d)
+
 
 
 ---
@@ -38,7 +37,9 @@ Transaction 2: ['Cheese', 'Juice', 'Apples', 'Cereal']
 
 ## 📈 Sample Rule Extracted
 
-**Rule:**  
+**Rule:** 
+![image](https://github.com/user-attachments/assets/601ad96e-48cf-414f-aa99-379bef9a4555)
+
 *If a customer buys Milk and Bread, they are likely to also buy Butter.*
 
 - **Support**: 0.4  
@@ -56,14 +57,6 @@ Retailers can use this insight to:
 
 ---
 
-## 💻 Technologies Used
-
-- Python
-- Pandas
-- Mlxtend
-- Jupyter Notebook
-
----
 
 ## 📂 Project Structure
 
