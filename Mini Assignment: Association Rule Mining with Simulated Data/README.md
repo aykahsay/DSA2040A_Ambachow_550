@@ -66,11 +66,12 @@ Retailers can use this insight to:
 ---
 
 ## 📂 Project Structure
-association-mini/
-│
-├── association_rules.ipynb # Main code and output
-├── README.md # Project overview and rule explanation
-└── requirements.txt # (Optional) Python libraries used
+
+| File/Folder                                  | Description                                       |
+|---------------------------------------------|---------------------------------------------------|
+| [`association_rules.ipynb`](association_rules.ipynb) | Main Jupyter Notebook with code and analysis     |
+| [`README.md`](README.md)                     | Project overview and rule interpretation         |
+| [`requirements.txt`](requirements.txt)       | *(Optional)* List of Python libraries used       |
 
 
 ---
