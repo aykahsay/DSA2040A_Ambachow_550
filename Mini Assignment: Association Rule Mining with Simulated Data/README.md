@@ -64,7 +64,7 @@ Retailers can use this insight to:
 |---------------------------------------------|---------------------------------------------------|
 | [`association_rules.ipynb`](association_rules.ipynb) | Main Jupyter Notebook with code and analysis     |
 | [`README.md`](README.md)                     | Project overview and rule interpretation         |
-| [`requirements.txt`](requirements.txt)       | *(Optional)* List of Python libraries used       |
+| [`requirements.txt`](requirements.txt)       | List of Python libraries used       |
 
 
 ---
