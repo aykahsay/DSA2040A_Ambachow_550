@@ -1,1 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlxtend
+sqlite3    # builtin, don't add to pip; included for clarity
 
