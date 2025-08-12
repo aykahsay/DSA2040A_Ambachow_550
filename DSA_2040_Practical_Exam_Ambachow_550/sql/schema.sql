@@ -1,3 +1,6 @@
+-- 1. Data Warehousing
+-- 1.1. Schema (SQL CREATE TABLE statements)
+
 -- PRAGMA to enforce foreign keys in SQLite (run before creating/inserting)
 PRAGMA foreign_keys = ON;
 
